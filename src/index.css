@@ -1,0 +1,50 @@
+.row {
+  margin: 15px;
+}
+
+.list-author, .list-comments {
+    color: #999;
+}
+
+.list-sort {
+    padding: 10px;
+    text-align: right;
+}
+
+.list-item {
+    overflow: auto;
+}
+
+.list-no-posts {
+    text-align: center;
+}
+
+.content-panel {
+    float: right;
+}
+
+.post-header {
+    overflow: auto;
+}
+/*
+.form-group {
+    margin: 0;
+}
+
+.form-commit {
+    margin-top: 0.5em;
+    margin-bottom: 0.25em;
+    text-align: right;
+}
+
+.form-input {
+    margin-top: 0.5em;
+    margin-bottom: 0.25em;
+}
+
+.comment-none {
+    text-align: center;
+    font-size: large;
+    margin: 1em;
+}
+*/
